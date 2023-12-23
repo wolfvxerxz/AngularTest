@@ -6,6 +6,11 @@
         justify-content: center!important;
     }
   }
+  @media only screen and (max-width: 1023px) {
+    .onrow {
+        display: grid !important;
+    }
+  }
  
   @import url("https://fonts.googleapis.com/css2?family=Russo+One&display=swap");
 
